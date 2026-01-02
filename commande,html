@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Restaurants - McDonald's</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Restaurants</h1>
+</header>
+
+<nav>
+    <a href="index.html">Accueil</a>
+    <a href="menu.html">Menu</a>
+    <a href="promos.html">Promotions</a>
+    <a href="commander.html">Commander</a>
+</nav>
+
+<main>
+    <p>Trouvez un McDonald's près de chez vous.</p>
+</main>
+
+</body>
+</html>
